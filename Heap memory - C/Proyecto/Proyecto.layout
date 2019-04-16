@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="lista.c" open="0" top="0" tabpos="4">
+		<Cursor position="1167" topLine="34" />
+	</File>
+	<File name="lista.h" open="0" top="0" tabpos="0">
+		<Cursor position="295" topLine="8" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="2">
+		<Cursor position="760" topLine="6" />
+	</File>
+	<File name="memoria.c" open="0" top="0" tabpos="1">
+		<Cursor position="8683" topLine="121" />
+	</File>
+	<File name="pila.c" open="0" top="0" tabpos="3">
+		<Cursor position="643" topLine="11" />
+	</File>
+	<File name="pila.h" open="0" top="0" tabpos="4">
+		<Cursor position="284" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

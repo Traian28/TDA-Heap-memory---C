@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1349107989 source:c:\users\user\desktop\luciano\uns\organización\c\proyecto\proyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"memoria.c"
+	"pila.c"
+
+1348931391 c:\users\user\desktop\luciano\uns\organización\c\proyecto\proyecto\lista.c
+	"lista.h"
+
+1348762293 c:\users\user\desktop\luciano\uns\organización\c\proyecto\proyecto\lista.h
+
+1349107961 c:\users\user\desktop\luciano\uns\organización\c\proyecto\proyecto\memoria.c
+	<stdio.h>
+	<math.h>
+	"memoria.h"
+
+1348767261 c:\users\user\desktop\luciano\uns\organización\c\proyecto\proyecto\memoria.h
+	"lista.c"
+
+1349090763 c:\users\user\desktop\luciano\uns\organización\c\proyecto\proyecto\pila.c
+	"Pila.h"
+
+1349090566 c:\users\user\desktop\luciano\uns\organización\c\proyecto\proyecto\pila.h
+
